@@ -1,0 +1,40 @@
+{
+  "blogPosts": [
+    {
+      "id": "1",
+      "author": "Jane Doe",
+      "title": "Introduction to Blogging",
+      "body": "Blogging is a great way to share your thoughts and ideas with the world. In this post, we'll explore how to get started."
+    },
+    {
+      "id": "2",
+      "author": "John Smith",
+      "title": "The Art of Writing",
+      "body": "Writing is a skill that improves with practice. Here are some tips to help you craft compelling blog posts."
+    },
+    {
+      "id": "3",
+      "author": "Emily Johnson",
+      "title": "Top 10 Travel Destinations",
+      "body": "Looking for your next adventure? Check out our list of the top 10 travel destinations for 2024."
+    },
+    {
+      "id": "4",
+      "author": "Michael Brown",
+      "title": "Tech Trends to Watch",
+      "body": "Technology is evolving rapidly. Stay ahead of the curve with our guide to the latest tech trends."
+    },
+    {
+      "id": "5",
+      "author": "Sarah Wilson",
+      "title": "Healthy Living Tips",
+      "body": "A healthy lifestyle is essential for well-being. Here are some practical tips to help you live your best life."
+    },
+    {
+      "id": "439f",
+      "title": "happiness",
+      "body": "lorem ipsum.......",
+      "author": "yoshi"
+    }
+  ]
+}
